@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Debug the code",
+        "completed": true
+    },
+    {
+        "task": "Cook Spaghetti",
+        "completed": true
+    },
+    {
+        "task": "Do the laundry",
+        "completed": false
+    },
+    {
+        "task": "Cook Ramen",
+        "completed": false
+    },
+    {
+        "task": "Debate items",
+        "completed": true
+    }
+]
